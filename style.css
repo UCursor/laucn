@@ -1,0 +1,112 @@
+html{
+    background-color: #1a1818;
+    font-family: 'Inter', sans-serif;
+}
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.midNav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+    font-weight: 300;
+}
+.navLink{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 1em;
+    display: inline-block;
+    transition: color 0.2s ease, transform 0.2s ease;
+}
+.navLink:hover {
+    color: rgba(255, 255, 255, 0.9);
+    transform: scale(1.08);
+}
+.navLink:active {
+    color: #fff;
+    transform: scale(1.08);
+}
+#heroMain {
+    color: white;
+    font-size: 3em;
+    text-align: center;
+    margin-top: 2em;
+    font-family: 'Google Sans Code', sans-serif;
+    font-weight: 500;
+    margin-bottom: 0.1em;
+}
+.mainContent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.buttons {
+    font-family: "inter", sans-serif;
+    font-weight: 450;
+    border: none;
+    border-radius: 1000em;
+    padding: 0.7em 1.5em;
+    font-size: 1em;
+    box-shadow: 0px 4px 10px rgba(1, 0, 0, 0.5);
+}
+#getStartedButton {
+    background-color: #ff5d3d;
+    color: white;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+#docsButton {
+    background-color: #272727;
+    border: 1px solid #fdfdfd;
+    transition: all 0.3s ease;
+    color: white;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+}
+#getStartedButton:hover {
+    background-color: #ff6e51;
+    color: white;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+#docsButton:hover {
+    background-color: #3a3a3a;
+    border: 1px solid #fdfdfd;
+    color: white;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+#getStartedButton:active {
+    background-color: #ff7a5f;
+    color: white;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+#docsButton:active {
+    background-color: #4d4d4d;
+    border: 1px solid #fdfdfd;
+    color: white;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+.buttonContainer {
+    gap: 0.5em;
+    display: flex;
+}
+#heroSecondary {
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 1.5em;
+    max-width: 30em;
+    text-align: center;
+    font-family: 'Google Sans Code', sans-serif;
+    font-weight: 500;
+    margin-bottom: 2em;
+}
