@@ -22,7 +22,7 @@ Whenever a task matches one of these skills and the user confirms that:
 
 ## Skill Registry
 
-### /webhai
+### /webH
 
 Purpose:
 Humanize AI-generated websites and reduce obvious AI-design patterns.
