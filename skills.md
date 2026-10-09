@@ -3,7 +3,7 @@
 ## Global Rules
 
 This file defines how to use the skills listed below.
-if the user called '$initiation' ; reply with : 'installed successfully (state current version of the skills stated in between {$version} in the header of this md file), command list : (list all command available for the user with briefs for each one)' , and read the rest of this and [[webH]](https://github.com/UCursor/laucn/blob/main/Skills/webH.md).
+if the user called '$initiation' ; reply with : 'installed successfully (state current version of the skills stated in between {$version} in the header of this md file), command list : (list all command available for the user with briefs for each one)' , and read the rest of this and [[webH]](https://github.com/UCursor/msitte/blob/main/Skills/webh.md).
 
 Whenever a task matches one of these skills and the user confirms that:
 
@@ -28,7 +28,7 @@ Purpose:
 Humanize AI-generated websites and reduce obvious AI-design patterns.
 
 Source:
-[[webH]](https://github.com/UCursor/mssiteai/blob/main/Skills/webH.md)
+[[webH]](https://github.com/UCursor/msitte/blob/main/Skills/webh.md)
 
 Activation:
 Use when the task involves designing, reviewing, improving, or generating a website/UI and the goal is to make the result feel more human-designed and less AI-generated.

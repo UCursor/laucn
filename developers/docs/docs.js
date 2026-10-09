@@ -77,42 +77,42 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             title: 'Universal Installer',
             desc: 'Initiation command for Cursor, Claude Code, and AI agents: read github.com/ucursor/msitte/blob/main/Skills.md $initiation',
-            displayUrl: 'mssiteai.pages.dev/',
+            displayUrl: 'msitte.pages.dev/',
             url: '/',
             category: 'Install'
         },
         {
             title: 'Other Agents Skill Link',
             desc: 'Direct skills reference for other agents and custom setups',
-            displayUrl: 'mssiteai.pages.dev/skills',
+            displayUrl: 'msitte.pages.dev/skills',
             url: '/skills',
             category: 'Skills'
         },
         {
             title: 'Documentation: Overview & Initiation',
             desc: 'Guide to msitte / laucn, anti-cliche guardrails, and the $initiation command',
-            displayUrl: 'mssiteai.pages.dev/docs',
+            displayUrl: 'msitte.pages.dev/docs',
             url: '/developers/docs/introduction.html',
             category: 'Docs'
         },
         {
             title: 'AI Signs: What AI Models Usually Do',
             desc: 'Breakdown of telltale AI flaws: purple-indigo gradients, unicode emoji icons, and broken placeholders',
-            displayUrl: 'mssiteai.pages.dev/docs#ai-signs',
+            displayUrl: 'msitte.pages.dev/docs#ai-signs',
             url: '/developers/docs/introduction.html#ai-signs',
             category: 'Guardrails'
         },
         {
             title: 'webh.md Design Standards',
             desc: 'Strict negative constraints preventing non-functional mockups, emojis, and electric neon',
-            displayUrl: 'mssiteai.pages.dev/docs#webh-rules',
+            displayUrl: 'msitte.pages.dev/docs#webh-rules',
             url: '/developers/docs/introduction.html#webh-rules',
             category: 'Standards'
         },
         {
             title: 'Discord Community',
             desc: 'Join the official msitte & laucn developer community on Discord',
-            displayUrl: 'mssiteai.pages.dev/community',
+            displayUrl: 'msitte.pages.dev/community',
             url: 'https://discord.gg/5KctFJj9Qk',
             category: 'Community',
             external: true
@@ -120,7 +120,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             title: 'GitHub Repository',
             desc: 'Official open source skills repository: @ucursor/msitte',
-            displayUrl: 'mssiteai.pages.dev/github',
+            displayUrl: 'msitte.pages.dev/github',
             url: 'https://github.com/ucursor/msitte',
             category: 'GitHub',
             external: true
