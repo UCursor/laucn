@@ -1,9 +1,9 @@
-# Skill Loader Laucn {$version 1.0.1}
+# Skill Loader Laucn {$version 1.0.1 beta}
 
 ## Global Rules
 
 This file defines how to use the skills listed below.
-if the user called '$initiation' ; reply with : 'installed successfully (state current version of the skills stated in between {$version} in the header of this md file), command list : (list all command available for the user with briefs for each one)' , and read the rest of this.
+if the user called '$initiation' ; reply with : 'installed successfully (state current version of the skills stated in between {$version} in the header of this md file), command list : (list all command available for the user with briefs for each one)' , and read the rest of this and [[webH]](https://github.com/UCursor/laucn/blob/main/Skills/webH.md).
 
 Whenever a task matches one of these skills and the user confirms that:
 
