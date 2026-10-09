@@ -28,7 +28,7 @@ Purpose:
 Humanize AI-generated websites and reduce obvious AI-design patterns.
 
 Source:
-[[webH]](https://github.com/UCursor/laucn/blob/main/Skills/webH.md)
+[[webH]](https://github.com/UCursor/mssiteai/blob/main/Skills/webH.md)
 
 Activation:
 Use when the task involves designing, reviewing, improving, or generating a website/UI and the goal is to make the result feel more human-designed and less AI-generated.
